@@ -1,3 +1,7 @@
+> [!note]
+> This project has been migrated to Codeberg and will no longer be updated here.<br>
+> Visit the projects Codeberg repository at: https://codeberg.org/VoxelBill/Classic-Converter
+
 # Classic Converter
 
 A tool to convert Minecraft pre-classic and classic worlds to a Minecraft indev world or a schematic file.
@@ -16,7 +20,7 @@ You will need the following in order to build the converter:
 **Building**
 
 1. Open a terminal
-2. Clone the repo with: `git clone https://github.com/BJTMastermind/Classic-Converter.git`
+2. Clone the repo with: `git clone https://github.com/VoxelBill/Classic-Converter.git`
 3. cd into the Classic-Converter folder
 4. Run: `go build`
 
